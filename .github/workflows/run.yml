@@ -15,4 +15,3 @@ jobs:
       env:
         GITHUB_PAT: ${{ secrets.PAT }}
         GITHUB_REPO: "jmikedupont2/ai-ticket"
-          
